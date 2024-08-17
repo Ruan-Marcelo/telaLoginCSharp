@@ -1,0 +1,11 @@
+C:\Users\black\Downloads\PROJETOSVS2022\ProjEstudo\ProjEstudo\bin\Debug\ProjEstudo.exe.config
+C:\Users\black\Downloads\PROJETOSVS2022\ProjEstudo\ProjEstudo\bin\Debug\ProjEstudo.exe
+C:\Users\black\Downloads\PROJETOSVS2022\ProjEstudo\ProjEstudo\bin\Debug\ProjEstudo.pdb
+C:\Users\black\Downloads\PROJETOSVS2022\ProjEstudo\ProjEstudo\obj\Debug\ProjEstudo.csproj.AssemblyReference.cache
+C:\Users\black\Downloads\PROJETOSVS2022\ProjEstudo\ProjEstudo\obj\Debug\ProjEstudo.formeLogin.resources
+C:\Users\black\Downloads\PROJETOSVS2022\ProjEstudo\ProjEstudo\obj\Debug\ProjEstudo.Properties.Resources.resources
+C:\Users\black\Downloads\PROJETOSVS2022\ProjEstudo\ProjEstudo\obj\Debug\ProjEstudo.csproj.GenerateResource.cache
+C:\Users\black\Downloads\PROJETOSVS2022\ProjEstudo\ProjEstudo\obj\Debug\ProjEstudo.csproj.CoreCompileInputs.cache
+C:\Users\black\Downloads\PROJETOSVS2022\ProjEstudo\ProjEstudo\obj\Debug\ProjEstudo.exe
+C:\Users\black\Downloads\PROJETOSVS2022\ProjEstudo\ProjEstudo\obj\Debug\ProjEstudo.pdb
+C:\Users\black\Downloads\PROJETOSVS2022\ProjEstudo\ProjEstudo\obj\Debug\ProjEstudo.Form1.resources
